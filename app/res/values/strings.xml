@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PubTran remake</string>
+    <string name="from_input_label">From:</string>
+    <string name="to_input_label">To:</string>
+</resources>

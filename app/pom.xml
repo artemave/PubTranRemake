@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>pubtranremake-app</artifactId>
+  <artifactId>app</artifactId>
   <packaging>apk</packaging>
   <name>pubtranremake - Application</name>
 
